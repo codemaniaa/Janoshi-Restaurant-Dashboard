@@ -1,0 +1,15 @@
+export const initialInventory = [
+  { id: "INV-01", name: "Chicken Fillet", unit: "kg", stock: 22, threshold: 10, supplier: "Okara Poultry Farm", expiry: "2026-07-20", costPerUnit: 650 },
+  { id: "INV-02", name: "Beef Patty", unit: "kg", stock: 8, threshold: 10, supplier: "Sahiwal Meat Co.", expiry: "2026-07-15", costPerUnit: 900 },
+  { id: "INV-03", name: "Pizza Dough Base", unit: "pcs", stock: 40, threshold: 15, supplier: "Okara Bakers", expiry: "2026-07-25", costPerUnit: 180 },
+  { id: "INV-04", name: "Mozzarella Cheese", unit: "kg", stock: 6, threshold: 8, supplier: "Punjab Dairy", expiry: "2026-07-18", costPerUnit: 1400 },
+  { id: "INV-05", name: "Burger Buns", unit: "pcs", stock: 120, threshold: 40, supplier: "Okara Bakers", expiry: "2026-07-12", costPerUnit: 40 },
+  { id: "INV-06", name: "Bread Loaf", unit: "pcs", stock: 18, threshold: 10, supplier: "Okara Bakers", expiry: "2026-07-11", costPerUnit: 160 },
+  { id: "INV-07", name: "Potato (Fries Cut)", unit: "kg", stock: 30, threshold: 12, supplier: "Sahiwal Vegetable Mandi", expiry: "2026-07-30", costPerUnit: 220 },
+  { id: "INV-08", name: "Ice Cream Base Mix", unit: "L", stock: 25, threshold: 10, supplier: "Punjab Dairy", expiry: "2026-08-05", costPerUnit: 480 },
+  { id: "INV-09", name: "Fresh Milk", unit: "L", stock: 35, threshold: 15, supplier: "Punjab Dairy", expiry: "2026-07-09", costPerUnit: 220 },
+  { id: "INV-10", name: "Mint & Lime Syrup", unit: "L", stock: 9, threshold: 5, supplier: "Okara Beverages", expiry: "2026-09-01", costPerUnit: 650 },
+  { id: "INV-11", name: "Soft Drink Cans", unit: "pcs", stock: 4, threshold: 24, supplier: "PepsiCo Distributor", expiry: "2026-12-01", costPerUnit: 90 },
+  { id: "INV-12", name: "Cake Base Sponge", unit: "pcs", stock: 12, threshold: 6, supplier: "Okara Bakers", expiry: "2026-07-14", costPerUnit: 900 },
+  { id: "INV-13", name: "Brownie Batter", unit: "kg", stock: 3, threshold: 5, supplier: "Okara Bakers", expiry: "2026-07-10", costPerUnit: 700 },
+];
